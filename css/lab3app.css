@@ -1,0 +1,17 @@
+.status{
+    padding: 5px;
+    height: 40px;
+    color: #FFF;
+    width: auto;
+    /* display: inline-block; */
+
+}
+
+.error {
+    background-color: red;
+
+}
+
+.success {
+    background-color: aquamarine;
+}
